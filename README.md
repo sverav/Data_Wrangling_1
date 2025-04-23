@@ -1,4 +1,4 @@
-# Data Wrtangling_1
+# Data Wrangling_1
 Goal: Test if music streaming activity differs by weekday and city (Springfield vs. Shelbyville).
 
 Data: Analyzed music_project_en.csv with user IDs, tracks, genres, timestamps, and locations.
